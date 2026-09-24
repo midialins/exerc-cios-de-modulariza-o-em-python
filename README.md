@@ -85,7 +85,4 @@ ou:
 python Ex27.py
 ```
 
-## Disciplina
 
-**Sistemas Operacionais**  
-**FATEC Zona Leste**
